@@ -26,7 +26,7 @@
     "jquery-ui": "https://github.com/jquery/jquery-ui/tarball/1.11.2",
     "masonry-layout": "3.3.1",
     "material-design-icons": "2.0.0",
-    "openlayers": "4.2.0",
+    "openlayers": "4.6.5",
     "roboto-fontface": "0.4.2",
     "sprintf-js": "1.0.3",
     "tinycolor2": "1.1.2"
